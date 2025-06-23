@@ -15,5 +15,5 @@ Ini adalah repositori portofolio saya selama workshop.
 4. **Proyek Web Cuaca**
 
 ## 📫 Kontak
-- LinkedIn: [linkedin.com/in/namakamu](https://linkedin.com)
-- Email: emailkamu@email.com
+- LinkedIn: linkedin.com/in/Dutaards.
+- Email: aryadutasatriaa@email.com
