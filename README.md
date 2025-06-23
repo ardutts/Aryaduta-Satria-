@@ -15,5 +15,5 @@ Ini adalah repositori portofolio saya selama workshop.
 4. **Proyek Web Cuaca**
 
 ## 📫 Kontak
-- LinkedIn: [linkedin.com/in/dutaards]([https://www.linkedin.com/in/dutaards]([https://www.linkedin.com/in/dutaards](https://www.linkedin.com/in/dutaards-58583833a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+- LinkedIn: https://www.linkedin.com/in/dutaards-58583833a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - Email: aryadutasatriaa@email.com
