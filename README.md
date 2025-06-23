@@ -1,4 +1,4 @@
-# Aryaduta Satria
+# Aryaduta Satria/221011400901/Workshop
 
 Halo! Saya mahasiswa Teknik Informatika dari Universitas Pamulang.  
 Ini adalah repositori portofolio saya selama workshop.
